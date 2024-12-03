@@ -1,2 +1,14 @@
 Ветка master - человек с шляпой, пуговицами и ботинками
 Ветка demo - человек с пуговицами но без ботинок и шляпы
+
+10 Коммитов
+added hometask.txt
+Merge branch 'refs/heads/hat'
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
